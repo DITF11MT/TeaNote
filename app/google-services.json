@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "328122763297",
+    "firebase_url": "https://lancer-f8641.firebaseio.com",
+    "project_id": "lancer-f8641",
+    "storage_bucket": "lancer-f8641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328122763297:android:e06464dc132a45f499bb60",
+        "android_client_info": {
+          "package_name": "com.example.lancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328122763297-jhvec0dub4qi6mk4rt8v4fr7lc50fbv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lancer",
+            "certificate_hash": "f33bcdc632c40b33dc8c01596888a5133c6efaa5"
+          }
+        },
+        {
+          "client_id": "328122763297-lquuhuod74bq0e2crhfeq2pbrorrlpv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPf3sgU7ge_nexXjxvn4LooOnCcmP3tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328122763297-lquuhuod74bq0e2crhfeq2pbrorrlpv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328122763297:android:88aeb50d468bd53c99bb60",
+        "android_client_info": {
+          "package_name": "com.example.mgonnamakeithapeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328122763297-7605k2ilcjgjq2j3l4hto7janlrfu9i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mgonnamakeithapeen",
+            "certificate_hash": "f33bcdc632c40b33dc8c01596888a5133c6efaa5"
+          }
+        },
+        {
+          "client_id": "328122763297-lquuhuod74bq0e2crhfeq2pbrorrlpv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPf3sgU7ge_nexXjxvn4LooOnCcmP3tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328122763297-lquuhuod74bq0e2crhfeq2pbrorrlpv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328122763297:android:2c84677c68fea91999bb60",
+        "android_client_info": {
+          "package_name": "com.example.teanote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328122763297-cv11s830andb30n15p8q162lb3kkq2qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teanote",
+            "certificate_hash": "f33bcdc632c40b33dc8c01596888a5133c6efaa5"
+          }
+        },
+        {
+          "client_id": "328122763297-lquuhuod74bq0e2crhfeq2pbrorrlpv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPf3sgU7ge_nexXjxvn4LooOnCcmP3tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328122763297-lquuhuod74bq0e2crhfeq2pbrorrlpv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
